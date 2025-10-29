@@ -1,0 +1,5 @@
+{
+    "rule": "Please note this rules when generating code for the app",
+    "generation": "Always export component or page as named and not default, Always import component or page as named export and not default except when importing components from libraries then note the right import type, ",
+    "design": "When genrating the tailwindconfig file,  Set content to scan all .js, .ts, .jsx, and .tsx files inside src/"
+}
